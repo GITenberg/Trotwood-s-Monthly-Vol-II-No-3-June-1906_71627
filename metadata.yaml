@@ -1,0 +1,29 @@
+_repo: Trotwood-s-Monthly-Vol-II-No-3-June-1906_71627
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2023-09-12'
+identifiers:
+  gutenberg: '71627'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=pst.000053065667&view=1up&seq=485
+pgterms:marc905: 20200525034025various
+pgterms:marc906: '1905'
+pgterms:marc907: US
+production_note: hekula03 and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aNashville :$bThe Trotwood Publishing Co., $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Trotwood's Monthly, Vol. II, No. 3, June, 1906
+url: http://www.gutenberg.org/ebooks/71627
